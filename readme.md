@@ -1,7 +1,7 @@
 # MapleJuice README
 
 ### Overall Process
-1. Start up the SDFS nodes (at least 4 of them)
+1. Start up the SDFS(Simple Distributed File System) nodes (at least 4 of them)
 2. Start up master on VM01
 3. Start up workers on all other VMs
 4. Add files that will be needed by the maple/juice requests to the SDFS
